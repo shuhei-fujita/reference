@@ -1,12 +1,12 @@
 # Resume
-# github stats
+## github stats
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align = "left" src = "https://github-readme-stats.vercel.app/api?username=syuheifujita&show_icons=true&count_private=true" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align = "left" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=syuheifujita&count_private=true" />
 </a>
-
+## 
 ## 基本情報
 
 ## スキルセット
