@@ -1,10 +1,10 @@
 # Resume
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align = "left" src = "https://github-readme-stats.vercel.app/api?username=mogaming217&show_icons=true&count_private=true" />
+  <img align = "left" src = "https://github-readme-stats.vercel.app/api?username=syuheifujita&show_icons=true&count_private=true" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align = "left" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=mogaming217&count_private=true" />
-</a>
+  <img align = "left" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=syuheifujita&count_private=true" />
+# </a>
 
 ## 基本情報
 
